@@ -1,5 +1,5 @@
 # AccessPhotoDCS
-An android inclusive of login activity with feature of changing username and password on request.
+An android app inclusive of login activity with feature of changing username and password on request.
 Has a second activity which asks user permission to access storage(gallery) and 
 select a photo and thus display it inside the app. 
 
