@@ -40,4 +40,52 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Yashwenth27/AccessPhotoDCS.git
+   git clone https://github.com/YOUR_USERNAME/AccessPhotoDCS.git
+```
+
+2. Open the project in Android Studio.
+3. Build the project and run it on an emulator or real device.
+4. Log in using:
+
+   ```
+   Username: abcd
+   Password: 1234
+   ```
+
+---
+
+## 🖼️ Screenshots
+
+| Login Page               | Change Credentials       | Select & View Image      |
+| ------------------------ | ------------------------ | ------------------------ |
+| *(Add screenshots here)* | *(Add screenshots here)* | *(Add screenshots here)* |
+
+> Add screenshots to showcase the UI flow and app functionality.
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+Feel free to [open an issue](https://github.com/YOUR_USERNAME/AccessPhotoDCS/issues) or submit a pull request.
+
+---
+
+## 💬 Let's Connect
+
+Made with ❤️ by [Yashwenth Srinivasan](mailto:126003302@sastra.ac.in)
+
+```
+
+---
+
+### ✅ Next Steps:
+- Replace `YOUR_USERNAME` with your actual GitHub username.
+- Add screenshots inside a folder like `/screenshots` and update the table.
+- Push this `README.md` to your repo root.
