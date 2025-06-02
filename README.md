@@ -54,12 +54,6 @@
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
