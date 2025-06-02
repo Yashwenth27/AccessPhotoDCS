@@ -41,7 +41,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/YOUR_USERNAME/AccessPhotoDCS.git
-```
+    ```
 
 2. Open the project in Android Studio.
 3. Build the project and run it on an emulator or real device.
@@ -81,9 +81,6 @@ Feel free to [open an issue](https://github.com/YOUR_USERNAME/AccessPhotoDCS/iss
 
 Made with ❤️ by [Yashwenth Srinivasan](mailto:126003302@sastra.ac.in)
 
-```
-
----
 
 ### ✅ Next Steps:
 - Replace `YOUR_USERNAME` with your actual GitHub username.
