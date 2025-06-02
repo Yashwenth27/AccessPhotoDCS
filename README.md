@@ -40,7 +40,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/AccessPhotoDCS.git
+   git clone https://github.com/Yashwenth27/AccessPhotoDCS.git
     ```
 
 2. Open the project in Android Studio.
@@ -57,13 +57,13 @@
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
-Feel free to [open an issue](https://github.com/YOUR_USERNAME/AccessPhotoDCS/issues) or submit a pull request.
+Feel free to [open an issue](https://github.com/Yashwenth27/AccessPhotoDCS/issues) or submit a pull request.
 
 ---
 
 ## 💬 Let's Connect
 
-Made with ❤️ by [Yashwenth Srinivasan](mailto:126003302@sastra.ac.in)
+Made with ❤️ by [Yashwenth](mailto:126003302@sastra.ac.in)
 
 
 ### ✅ Next Steps:
