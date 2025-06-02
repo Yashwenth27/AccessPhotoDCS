@@ -54,16 +54,6 @@
 
 ---
 
-## 🖼️ Screenshots
-
-| Login Page               | Change Credentials       | Select & View Image      |
-| ------------------------ | ------------------------ | ------------------------ |
-| *(Add screenshots here)* | *(Add screenshots here)* | *(Add screenshots here)* |
-
-> Add screenshots to showcase the UI flow and app functionality.
-
----
-
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
