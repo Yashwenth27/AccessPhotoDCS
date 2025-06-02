@@ -65,8 +65,3 @@ Feel free to [open an issue](https://github.com/Yashwenth27/AccessPhotoDCS/issue
 
 Made with ❤️ by [Yashwenth](mailto:126003302@sastra.ac.in)
 
-
-### ✅ Next Steps:
-- Replace `YOUR_USERNAME` with your actual GitHub username.
-- Add screenshots inside a folder like `/screenshots` and update the table.
-- Push this `README.md` to your repo root.
